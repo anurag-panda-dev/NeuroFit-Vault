@@ -1,5 +1,6 @@
 # **Project Proposal**: Mind and Health Tracker Device with Real-Time Data Visualization, Emergency Alerts, and Predictive Mood Analytics
 ---
+***Created By Anurag Panda***
 ## Overview
 
 The Mind and Health Tracker is an innovative wearable device designed to monitor and improve the user's mental and physical well-being. The device will be a headband equipped with several sensors to track brain waves, heart rate variability (HRV), and oxygen saturation (SpO2). Data will be transmitted wirelessly to a web application via Bluetooth Low Energy (BLE), where it will be stored in a secure database and visualized in real-time.
