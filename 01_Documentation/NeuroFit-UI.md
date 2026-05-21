@@ -1,3 +1,8 @@
+
+---
+> [BACK TO INDEX](INDEX.md)
+---
+
 Create a futuristic, premium, and highly interactive UI/UX design for **NeuroFit**, an AI-powered neurotechnology and wellness platform focused on EEG, brainwave analytics, cognitive fitness, and human performance optimization.
 
 The design should feel like a fusion of:

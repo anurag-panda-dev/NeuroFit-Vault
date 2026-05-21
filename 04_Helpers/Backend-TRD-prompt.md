@@ -1,3 +1,10 @@
+
+---
+
+> [BACK TO INDEX](INDEX.md)
+
+---
+
 Create a highly detailed, enterprise-grade Technical Requirements Document (TRD) + Backend System Architecture Documentation for an AI-powered neurotechnology platform called **NeuroFit**.
 
 Use the NeuroFit logo and branding as inspiration for architecture philosophy, naming, and system aesthetics. NeuroFit is a neuroscience + AI wellness platform built around EEG signal acquisition, brainwave analytics, neurofeedback, cognitive performance, wearable integration, and ML-powered insights.

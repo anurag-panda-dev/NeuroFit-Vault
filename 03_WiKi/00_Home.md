@@ -1,3 +1,7 @@
+
+---
+> [BACK TO WIKI HOME](WiKi-HOME.md)
+---
 # NeuroFit Wiki
 
 Welcome to the NeuroFit technical wiki. This documentation describes the full wearable stack: embedded firmware, biosignal pipeline, BLE transport, web application, safety constraints, and contributor workflows.

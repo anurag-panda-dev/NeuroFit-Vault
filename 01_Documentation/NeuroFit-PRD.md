@@ -1,3 +1,9 @@
+
+---
+> [BACK TO INDEX](INDEX.md)
+---
+
+
 # NeuroFit — Product Requirements Document (PRD)
 
 Last updated: 2026-05-20

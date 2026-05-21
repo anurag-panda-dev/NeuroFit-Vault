@@ -1,3 +1,9 @@
+
+---
+
+> [BACK TO INDEX](INDEX.md)
+
+---
 Create a highly detailed, startup-grade, enterprise-level Product Requirements Document (PRD) for a full-stack AI-powered neurotechnology platform called **NeuroFit**.
 
 Use the NeuroFit logo and branding as inspiration for the visual direction, system architecture philosophy, and product identity.

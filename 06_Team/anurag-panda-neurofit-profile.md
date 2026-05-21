@@ -1,3 +1,8 @@
+
+---
+> [BACK TO HOME](../README.md)
+---
+
 ```json
 {
 	"name": "Anurag Panda",
@@ -28,6 +33,9 @@
 	"salary": 0
 }
 ```
+
+![PROFILE](anurag.png)
+
 
 
 {

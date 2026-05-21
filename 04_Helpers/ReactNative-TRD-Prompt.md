@@ -1,3 +1,10 @@
+
+---
+
+> [BACK TO INDEX](INDEX.md)
+
+---
+
 Create a highly detailed, enterprise-grade Technical Requirements Document (TRD) for the **NeuroFit Mobile Application**, a futuristic AI-powered neurotechnology platform built using **React Native + Expo**.
 
 The app is part of the NeuroFit ecosystem focused on:
