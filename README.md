@@ -12,7 +12,7 @@ This solution will integrate advanced machine learning (ML) algorithms to predic
 
 1. [Documentation](01_Documentation/INDEX.md)
 2. [Assets](02_Assets/INDEX.md)
-3. [WiKi](WiKi-HOME.md)
+3. [WiKi](03_WiKi/WiKi-HOME.md)
 4. [Prompts](04_Helpers/INDEX.md)
 5. [Slides](05_Slides/INDEX.md)
 6. [Team](06_Team/anurag-panda-neurofit-profile.md)

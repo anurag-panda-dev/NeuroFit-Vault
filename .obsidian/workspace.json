@@ -182,15 +182,16 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "quartz-syncer:Quartz Syncer publication center": false,
-      "digitalgarden:Digital Garden Publication Center": false
+      "digitalgarden:Digital Garden Publication Center": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "6d4b8d118e979c76",
   "lastOpenFiles": [
+    "03_WiKi/WiKi-HOME.md",
+    "README.md",
     "03_WiKi/00_Home.md",
     "03_WiKi/04_Community_and_Gevernance/19_License.md",
-    "README.md",
-    "03_WiKi/WiKi-HOME.md",
     "03_WiKi/02_Architecture_and_Engineering/04_Hardware-Architecture.md",
     "03_WiKi/01_Start_Here/01_Project-Overview.md",
     "01_Documentation/INDEX.md",
