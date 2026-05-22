@@ -1,7 +1,7 @@
 # License
 [Back to Home](../00_Home.md)
 
-NeuroFit is released under the MIT License.
+Lumyn is released under the MIT License.
 
 ## Summary
 

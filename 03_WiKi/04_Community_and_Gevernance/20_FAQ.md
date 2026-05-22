@@ -1,9 +1,9 @@
 # FAQ
 [Back to Home](../00_Home.md)
 
-## Is NeuroFit a medical device?
+## Is Lumyn a medical device?
 
-No. NeuroFit is an experimental wellness/research platform and is not certified for diagnosis or treatment.
+No. Lumyn is an experimental wellness/research platform and is not certified for diagnosis or treatment.
 
 ## Which sensors are currently active in firmware?
 

@@ -3,7 +3,7 @@
 > [BACK TO INDEX](INDEX.md)
 ---
 
-Create a futuristic, premium, and highly interactive UI/UX design for **NeuroFit**, an AI-powered neurotechnology and wellness platform focused on EEG, brainwave analytics, cognitive fitness, and human performance optimization.
+Create a futuristic, premium, and highly interactive UI/UX design for **Lumyn**, an AI-powered neurotechnology and wellness platform focused on EEG, brainwave analytics, cognitive fitness, and human performance optimization.
 
 The design should feel like a fusion of:
 
@@ -12,7 +12,7 @@ The design should feel like a fusion of:
 * premium wearable technology brands
 * AI wellness ecosystems
 
-Use the uploaded NeuroFit logo as the primary brand identity reference.
+Use the uploaded Lumyn logo as the primary brand identity reference.
 
 ---
 
@@ -112,7 +112,7 @@ Create a stunning fullscreen hero section featuring:
 * animated EEG pulse waves
 * futuristic dashboard preview
 * headline:
-  “Optimize Your Mind with NeuroFit”
+  “Optimize Your Mind with Lumyn”
 * subheadline about AI-powered cognitive wellness and EEG analytics
 * CTA buttons:
 
@@ -164,9 +164,9 @@ Style:
 
 ---
 
-## 4. NeuroFit Wearable Showcase
+## 4. Lumyn Wearable Showcase
 
-Showcase the NeuroFit headband device in a premium product section.
+Showcase the Lumyn headband device in a premium product section.
 
 Include:
 

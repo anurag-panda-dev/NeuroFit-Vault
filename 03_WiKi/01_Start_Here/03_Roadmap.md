@@ -26,7 +26,7 @@
 
 ```mermaid
 gantt
-  title NeuroFit Delivery Roadmap
+  title Lumyn Delivery Roadmap
   dateFormat  YYYY-MM-DD
   section Foundation
   BLE/Profile Alignment         :a1, 2026-05-01, 30d

@@ -3,7 +3,7 @@
 
 ## Contribution Philosophy
 
-NeuroFit welcomes contributions across embedded systems, web engineering, biosignal processing, QA, and documentation.
+Lumyn welcomes contributions across embedded systems, web engineering, biosignal processing, QA, and documentation.
 
 ## Development Workflow
 

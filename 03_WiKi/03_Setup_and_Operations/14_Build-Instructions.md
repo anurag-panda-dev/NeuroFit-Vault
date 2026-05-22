@@ -26,8 +26,8 @@ Project root: `Web (flask)/`
 The repository includes `Web (flask)/Dockerfile`.
 
 ```bash
-docker build -t neurofit-web "Web (flask)"
-docker run -p 5000:5000 --env-file .env neurofit-web
+docker build -t Lumyn-web "Web (flask)"
+docker run -p 5000:5000 --env-file .env Lumyn-web
 ```
 
 ## Deployment Notes

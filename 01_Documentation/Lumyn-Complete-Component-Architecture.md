@@ -2,7 +2,7 @@
 ---
 > [BACK TO INDEX](INDEX.md)
 ---
-# NeuroFit WebApp — Complete Component Architecture
+# Lumyn WebApp — Complete Component Architecture
 
 ---
 

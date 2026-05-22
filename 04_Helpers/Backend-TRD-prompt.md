@@ -5,9 +5,9 @@
 
 ---
 
-Create a highly detailed, enterprise-grade Technical Requirements Document (TRD) + Backend System Architecture Documentation for an AI-powered neurotechnology platform called **NeuroFit**.
+Create a highly detailed, enterprise-grade Technical Requirements Document (TRD) + Backend System Architecture Documentation for an AI-powered neurotechnology platform called **Lumyn**.
 
-Use the NeuroFit logo and branding as inspiration for architecture philosophy, naming, and system aesthetics. NeuroFit is a neuroscience + AI wellness platform built around EEG signal acquisition, brainwave analytics, neurofeedback, cognitive performance, wearable integration, and ML-powered insights.
+Use the Lumyn logo and branding as inspiration for architecture philosophy, naming, and system aesthetics. Lumyn is a neuroscience + AI wellness platform built around EEG signal acquisition, brainwave analytics, neurofeedback, cognitive performance, wearable integration, and ML-powered insights.
 
 The documentation must be extremely detailed (startup + production-ready quality), technical, scalable, implementation-focused, and beginner-friendly.
 
@@ -80,9 +80,9 @@ Logging:
 
 # PROJECT OVERVIEW
 
-NeuroFit is a wearable + AI-driven EEG platform.
+Lumyn is a wearable + AI-driven EEG platform.
 
-Users wear a NeuroFit headband that streams EEG data to the backend.
+Users wear a Lumyn headband that streams EEG data to the backend.
 
 The backend should support:
 
@@ -142,7 +142,7 @@ Include:
 
 Explain:
 - monolith vs modular monolith vs microservice architecture
-- recommend best option for NeuroFit
+- recommend best option for Lumyn
 
 Include architecture decisions and tradeoffs.
 
@@ -465,7 +465,7 @@ Include:
 Generate architecture.
 
 Example:
-ws://api.neurofit.ai/eeg/live
+ws://api.lumyn.in/eeg/live
 
 ---
 
@@ -542,7 +542,7 @@ Explain:
 free tier limits
 postgres hosting
 deployment process
-best option for NeuroFit
+best option for Lumyn
 
 Must include:
 - FastAPI deploy guide

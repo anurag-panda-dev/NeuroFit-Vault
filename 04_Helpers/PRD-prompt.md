@@ -4,11 +4,11 @@
 > [BACK TO INDEX](INDEX.md)
 
 ---
-Create a highly detailed, startup-grade, enterprise-level Product Requirements Document (PRD) for a full-stack AI-powered neurotechnology platform called **NeuroFit**.
+Create a highly detailed, startup-grade, enterprise-level Product Requirements Document (PRD) for a full-stack AI-powered neurotechnology platform called **Lumyn**.
 
-Use the NeuroFit logo and branding as inspiration for the visual direction, system architecture philosophy, and product identity.
+Use the Lumyn logo and branding as inspiration for the visual direction, system architecture philosophy, and product identity.
 
-NeuroFit is a futuristic neuroscience + AI wellness ecosystem focused on:
+Lumyn is a futuristic neuroscience + AI wellness ecosystem focused on:
 - EEG brainwave analytics
 - cognitive performance optimization
 - neurofeedback
@@ -118,7 +118,7 @@ Explain:
 - unique selling points
 - future scalability
 
-Describe NeuroFit as:
+Describe Lumyn as:
 “A next-generation AI neuroscience platform for cognitive optimization and mental performance.”
 
 ---
@@ -126,7 +126,7 @@ Describe NeuroFit as:
 # 2. Product Overview
 
 Explain:
-- what NeuroFit is
+- what Lumyn is
 - how the wearable ecosystem works
 - how EEG data is collected
 - how AI generates insights

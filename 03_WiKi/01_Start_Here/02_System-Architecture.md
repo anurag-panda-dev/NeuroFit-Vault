@@ -3,7 +3,7 @@
 
 ## Architecture Summary
 
-NeuroFit is organized as a three-layer system:
+Lumyn is organized as a three-layer system:
 
 1. Wearable edge node (microcontroller + sensors + actuator)
 2. Wireless transport (BLE GATT notifications)

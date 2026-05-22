@@ -2,11 +2,11 @@
 ---
 > [BACK TO WIKI HOME](WiKi-HOME.md)
 ---
-# NeuroFit Wiki
+# Lumyn Wiki
 
-Welcome to the NeuroFit technical wiki. This documentation describes the full wearable stack: embedded firmware, biosignal pipeline, BLE transport, web application, safety constraints, and contributor workflows.
+Welcome to the Lumyn technical wiki. This documentation describes the full wearable stack: embedded firmware, biosignal pipeline, BLE transport, web application, safety constraints, and contributor workflows.
 
-NeuroFit is a wearable mind and health tracker that combines:
+Lumyn is a wearable mind and health tracker that combines:
 
 - EEG-style biosignal capture (BioAmp EXG input)
 - Heart-rate and SpO2 monitoring (planned MAX30102 integration)
@@ -52,7 +52,7 @@ NeuroFit is a wearable mind and health tracker that combines:
 
 | Path | Purpose |
 |---|---|
-| `Hardware/01-first-firmware/NeuroFit/NeuroFit.ino` | Firmware: BLE, EEG processing, emergency/fall logic |
+| `Hardware/01-first-firmware/Lumyn/Lumyn.ino` | Firmware: BLE, EEG processing, emergency/fall logic |
 | `Web (flask)/app.py` | Flask backend, auth, APIs, emergency alert routing |
 | `Web (flask)/templates/` | Dashboard, health data, meditation UI pages |
 | `Web (flask)/static/js/` | Web Bluetooth, dashboard logic, location, meditation controls |

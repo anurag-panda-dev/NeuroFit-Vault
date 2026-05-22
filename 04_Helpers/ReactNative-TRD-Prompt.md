@@ -5,9 +5,9 @@
 
 ---
 
-Create a highly detailed, enterprise-grade Technical Requirements Document (TRD) for the **NeuroFit Mobile Application**, a futuristic AI-powered neurotechnology platform built using **React Native + Expo**.
+Create a highly detailed, enterprise-grade Technical Requirements Document (TRD) for the **Lumyn Mobile Application**, a futuristic AI-powered neurotechnology platform built using **React Native + Expo**.
 
-The app is part of the NeuroFit ecosystem focused on:
+The app is part of the Lumyn ecosystem focused on:
 - EEG brainwave monitoring
 - realtime analytics
 - neurofeedback
@@ -100,7 +100,7 @@ Explain:
 - future scalability
 - realtime AI neuroscience vision
 
-Describe NeuroFit Mobile as:
+Describe Lumyn Mobile as:
 “A next-generation AI neuroscience companion app for realtime cognitive optimization and brain analytics.”
 
 ---
@@ -196,7 +196,7 @@ Compare:
 - React Query vs Apollo
 - MMKV vs AsyncStorage
 
-Recommend best architecture for NeuroFit.
+Recommend best architecture for Lumyn.
 
 ---
 

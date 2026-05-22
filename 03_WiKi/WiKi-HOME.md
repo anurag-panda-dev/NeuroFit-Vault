@@ -9,7 +9,7 @@
 The Mind and Health Tracker is an innovative wearable device designed to monitor and improve the user's mental and physical well-being. The device will be a headband equipped with several sensors to track brain waves, heart rate variability (HRV), and oxygen saturation (SpO2). Data will be transmitted wirelessly to a web application via Bluetooth Low Energy (BLE), where it will be stored in a secure database and visualized in real-time.
 This solution will integrate advanced machine learning (ML) algorithms to predict the user's mood based on the data received and will provide recommendations for mental relaxation, including guided meditation sessions. Additionally, in case of emergencies (such as unusual brain wave activity, heart rate irregularities, SpO2 anomalies, or a fall), an automatic emergency alert will be sent to a pre-set contact with the user's location.
 
-> Presentation Link [NeuroFit by Anurag](https://neurofit-anurag.my.canva.site)
+> Presentation Link [Lumyn by Anurag](https://neurofit-anurag.my.canva.site)
 
 > Start Reading The WiKi from [00 Home](00_Home.md)
 

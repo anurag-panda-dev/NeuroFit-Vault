@@ -3,7 +3,7 @@
 
 ## Safety Statement
 
-NeuroFit is an experimental wellness platform. It is not approved as a medical device and must not be used for clinical diagnosis or treatment decisions.
+Lumyn is an experimental wellness platform. It is not approved as a medical device and must not be used for clinical diagnosis or treatment decisions.
 
 ## Electrical and Wearability Safety
 

@@ -2,13 +2,13 @@
 ---
 > [BACK TO INDEX](INDEX.md)
 ---
-# NeuroFit Mobile — Technical Requirements Document (TRD)
+# Lumyn Mobile — Technical Requirements Document (TRD)
 
 Last updated: 2026-05-20
 
-File: NeuroFit-ReactNative-TRD.md
+File: Lumyn-ReactNative-TRD.md
 
-Purpose: enterprise-grade technical blueprint for the NeuroFit Mobile Application (React Native + Expo). This TRD is implementation-ready and intended for engineering teams, architects, and investors.
+Purpose: enterprise-grade technical blueprint for the Lumyn Mobile Application (React Native + Expo). This TRD is implementation-ready and intended for engineering teams, architects, and investors.
 
 ---
 
@@ -43,7 +43,7 @@ Contents
 
 ## 1. Executive Summary
 
-- Product vision: NeuroFit Mobile is the user's AI neuroscience companion: realtime cognitive optimization, neurofeedback, and longitudinal brain analytics in a single app.
+- Product vision: Lumyn Mobile is the user's AI neuroscience companion: realtime cognitive optimization, neurofeedback, and longitudinal brain analytics in a single app.
 - Mobile strategy: mobile-first UX, mobile-as-gateway for wearables, edge-assisted compute, high-integrity data collection, and easy sharing to the web dashboard.
 - Wearable ecosystem: BLE-first headband/ear-EEG devices; mobile handles pairing, local buffering, OTA, and secure upload to cloud.
 - Business goals: ship MVP in 6 months, deploy robust mobile SDK, reach 50k users in 18 months, and enable enterprise clinician workflows by V2.
@@ -51,7 +51,7 @@ Contents
 - Future scalability: modular features, pluggable inference backends, remote config, and feature flags; enterprise-ready multi-tenant support.
 - Realtime AI neuroscience vision: on-device inference for instant feedback + cloud inference for heavy models and aggregated personalization.
 
-NeuroFit Mobile definition: “A next-generation AI neuroscience companion app for realtime cognitive optimization and brain analytics.”
+Lumyn Mobile definition: “A next-generation AI neuroscience companion app for realtime cognitive optimization and brain analytics.”
 
 ---
 

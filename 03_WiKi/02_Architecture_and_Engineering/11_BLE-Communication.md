@@ -37,7 +37,7 @@ Current frontend scripts use generic/standard service names (`heart_rate`, `heal
 
 ```mermaid
 sequenceDiagram
-  participant Device as NeuroFit Wearable
+  participant Device as Lumyn Wearable
   participant Browser as Dashboard Browser
   participant API as Flask API
 

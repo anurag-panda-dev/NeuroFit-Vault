@@ -3,7 +3,7 @@
 
 ## Mission
 
-NeuroFit targets continuous personal wellness monitoring by combining physiological sensing, edge inference primitives, and user-facing guidance workflows in a wearable form factor.
+Lumyn targets continuous personal wellness monitoring by combining physiological sensing, edge inference primitives, and user-facing guidance workflows in a wearable form factor.
 
 ## High-Level Objectives
 
@@ -25,7 +25,7 @@ NeuroFit targets continuous personal wellness monitoring by combining physiologi
 
 ## Biomedical Context
 
-NeuroFit currently implements *wellness-grade* telemetry logic. It is **not** a certified medical device and must not be used for diagnosis, treatment, or emergency triage decisions without clinical validation.
+Lumyn currently implements *wellness-grade* telemetry logic. It is **not** a certified medical device and must not be used for diagnosis, treatment, or emergency triage decisions without clinical validation.
 
 See [Safety Considerations](../03_Setup_and_Operations/15_Safety-Considerations.md) for detailed guidance.
 

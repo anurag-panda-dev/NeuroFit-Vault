@@ -4,11 +4,11 @@
 ---
 
 
-# NeuroFit — Product Requirements Document (PRD)
+# Lumyn — Product Requirements Document (PRD)
 
 Last updated: 2026-05-20
 
-Repository: NeuroFit
+Repository: Lumyn
 
 Overview: A next-generation AI neuroscience platform for cognitive optimization and mental performance.
 
@@ -41,7 +41,7 @@ Overview: A next-generation AI neuroscience platform for cognitive optimization 
 
 ## 1. Executive Summary
 
-- Product vision: Build NeuroFit — a next-generation AI neuroscience platform for cognitive optimization and mental performance. It combines wearable EEG hardware, mobile and web apps, and cloud AI to deliver real-time brain metrics, personalized training, and clinically relevant insights.
+- Product vision: Build Lumyn — a next-generation AI neuroscience platform for cognitive optimization and mental performance. It combines wearable EEG hardware, mobile and web apps, and cloud AI to deliver real-time brain metrics, personalized training, and clinically relevant insights.
 - Mission: Democratize safe, actionable neuroscience and AI-driven cognitive enhancement for consumers, athletes, researchers, and clinicians.
 - Business goals: 1) Launch MVP with basic EEG streaming, analytics, and neurofeedback within 6 months. 2) Reach 50k MAUs in 18 months. 3) Secure B2B enterprise deals with clinics and teams by Year 2. 4) Monetize via subscriptions, device sales, and enterprise licenses.
 - Technical goals: Real-time low-latency EEG streaming, scalable ML inference, secure PII-compliant storage, multi-platform apps, modular backend with microservice-readiness, and reproducible ML pipelines.
@@ -54,8 +54,8 @@ Overview: A next-generation AI neuroscience platform for cognitive optimization 
 
 ## 2. Product Overview
 
-What NeuroFit is
-- NeuroFit is a full-stack neurotechnology ecosystem: a wearable EEG device (supporting 1–8 channels) + mobile app (React Native) + web dashboard (Next.js) + cloud backend (FastAPI) + AI/ML pipeline. Core flows: data ingestion → signal cleaning → feature extraction → ML inference → actionable insights and training delivery.
+What Lumyn is
+- Lumyn is a full-stack neurotechnology ecosystem: a wearable EEG device (supporting 1–8 channels) + mobile app (React Native) + web dashboard (Next.js) + cloud backend (FastAPI) + AI/ML pipeline. Core flows: data ingestion → signal cleaning → feature extraction → ML inference → actionable insights and training delivery.
 
 Wearable ecosystem
 - Devices: lightweight headband or ear-EEG, BLE + optional USB for high-throughput. Devices perform ADC, basic filtering, and packetized data over BLE with timestamping and sequence numbers.
@@ -1072,4 +1072,4 @@ Appendices
 
 - Folder trees, API examples, mermaid diagrams, and DB schema snippets included inline above. If you want expanded OpenAPI examples, Alembic migration templates, or seed data, I can produce them next.
 
-File created: [NeuroFit-PRD.md](NeuroFit-PRD.md#L1)
+File created: [Lumyn-PRD.md](Lumyn-PRD.md#L1)

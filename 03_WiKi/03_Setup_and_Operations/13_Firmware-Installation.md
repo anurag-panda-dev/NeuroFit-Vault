@@ -5,7 +5,7 @@
 
 - Board family: Seeed XIAO nRF52840 (nRF52)
 - Language/runtime: Arduino framework (C/C++)
-- Main sketch: `Hardware/01-first-firmware/NeuroFit/NeuroFit.ino`
+- Main sketch: `Hardware/01-first-firmware/Lumyn/Lumyn.ino`
 
 ## Prerequisites
 
@@ -20,7 +20,7 @@
 
 ## Flash Procedure
 
-1. Open Arduino IDE and load `NeuroFit.ino`.
+1. Open Arduino IDE and load `Lumyn.ino`.
 2. Select board: XIAO nRF52840.
 3. Select correct COM port.
 4. Verify/compile the sketch.
