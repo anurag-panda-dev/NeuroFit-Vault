@@ -1,4 +1,4 @@
-# **Project Proposal**: Mind and Health Tracker Device with Real-Time Data Visualization, Emergency Alerts, and Predictive Mood Analytics
+# **Lumyn**: Mind and Health Tracker Device with Real-Time Data Visualization, Emergency Alerts, and Predictive Mood Analytics
 ---
 ***Created By Anurag Panda***
 ## Overview
